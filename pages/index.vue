@@ -1,3 +1,5 @@
 <template>
-  <TheInvestmentForm />
+  <NuxtLayout>
+    <TheInvestmentForm />
+  </NuxtLayout>
 </template>
